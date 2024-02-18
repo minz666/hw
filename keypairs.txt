@@ -1,0 +1,3 @@
+privkeymu dik, bukan mnemonic
+privkey ke 2
+privkey ke 3
